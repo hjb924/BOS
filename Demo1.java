@@ -1,6 +1,6 @@
-pubilc class Deme{
+pubilc class Demo{
 
-hello word;	
+hello word---;	
 
 }
 
